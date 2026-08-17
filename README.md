@@ -1,55 +1,29 @@
-# business-technology-transformation
-Demonstration projects exploring business transformation, data, CRM, automation and technology-enabled operations.
+Business & Technology Transformation
 
-# Business & Technology Transformation
+I work at the intersection of business, technology and operations, helping organizations translate complex business challenges into scalable solutions and measurable outcomes.
 
-A collection of demonstration projects exploring how technology, data and structured problem-solving can translate into measurable business outcomes.
+Over 10+ years, my experience has spanned business intelligence, digital transformation, CRM, automation, e-commerce, technology delivery and cross-functional leadership.
 
-## About
+My work has consistently focused on connecting:
 
-I am a Business & Technology Transformation leader with 10+ years of experience working at the intersection of business strategy, technology, operations and organizational transformation.
+Business strategy → Technology → People → Execution → Measurable outcomes
 
-My experience includes:
+Areas of focus
+Business & Technology Strategy
+Digital & Operational Transformation
+Business Intelligence & Data
+CRM & Customer Journeys
+Automation & Systems Integration
+Cross-functional Leadership
+Technology-enabled Growth
+Approach
 
-- Business Intelligence & data-driven decision making
-- CRM & customer journey transformation
-- Marketing automation
-- Digital commerce
-- Process & operational transformation
-- Technology integrations and APIs
-- Cross-functional delivery
-- Team and organizational development
-
-My approach is centered on understanding business problems end-to-end, identifying root causes and dependencies, and designing practical solutions that can be implemented, measured and scaled.
-
-## Areas of exploration
-
-### Business Intelligence
-Exploring how data can be structured and translated into information that supports operational and executive decision-making.
-
-### CRM & Customer Journeys
-Demonstrating how customer data, CRM platforms and automated journeys can work together to improve customer engagement and business outcomes.
-
-### Automation & Integrations
-Exploring workflows that connect systems, APIs and business processes to reduce manual work and improve operational efficiency.
-
-### Digital Operations
-Analyzing how technology, processes, people and governance interact to create scalable operating models.
-
-### AI & Emerging Technology
-Exploring practical applications of AI and emerging technologies from a business and operational perspective.
-
-## How I approach transformation
-
-My approach is based on four principles:
-
-1. **Understand the problem end-to-end**
-2. **Identify root causes, dependencies and opportunities**
-3. **Align technology and operations with business objectives**
-4. **Build, measure and scale sustainable solutions**
+I approach transformation by first understanding the business problem end-to-end, identifying root causes and dependencies, aligning stakeholders around a shared objective, and then translating the opportunity into an executable solution.
 
 The objective is not technology for its own sake, but technology that creates measurable business value.
 
-## Disclaimer
+About this repository
 
-The projects in this repository are demonstrations and learning exercises created using public, synthetic or anonymized information. They do not contain confidential information, proprietary code or data from previous employers or clients.
+This repository contains demonstration projects exploring business transformation, data, CRM, automation and technology-enabled operations.
+
+All examples use synthetic, public or anonymized information and contain no confidential or proprietary information from previous employers or clients.
