@@ -1,4 +1,4 @@
-Business & Technology Transformation
+## Business & Technology Transformation
 
 I work at the intersection of business, technology and operations, helping organizations translate complex business challenges into scalable solutions and measurable outcomes.
 
